@@ -4,4 +4,4 @@
 
 ---
 
-**check** [**Java-DSA repo**](https://github.com/samthegamer-007/Java-DSA) *for LeetCode submissions*
+**check** [**leetcode-submissions repo**](https://github.com/samthegamer-007/leetcode-submissions) *for LeetCode submissions*
